@@ -1,0 +1,7 @@
+{
+    
+    "require": {
+        "pear/http_request2": "^2.4",
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
